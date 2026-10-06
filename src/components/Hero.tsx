@@ -47,7 +47,7 @@ function ProfileFrame() {
       </div>
 
       <span className="absolute bottom-0 left-1/2 -translate-x-1/2 whitespace-nowrap rounded-sm bg-accent-strong px-2.5 py-1 text-xs font-medium text-white">
-        BSc in Software Engineering
+        
       </span>
     </div>
   );
